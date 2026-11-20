@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Mandala-Werx
+Comment=Circular mandala illustration editor
+Exec=mandalawerx
+Icon=mandalawerx
+Categories=Graphics;Office;
+Terminal=false
+StartupWMClass=mandalawerx
